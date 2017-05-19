@@ -8,6 +8,7 @@ Autores
  * Marjorie Celestino - <margecelestino@gmail.com>
  * Matheus Cardoso Duarte Santos - <mtesedd@gmail.com>
  * Kayo Martins - <k8martins08@gmail.com>
+ * Cleydson - <cleydsonjr@gmail.com>
  
 -------
 _Linguagens de Programação (2017-1)_
